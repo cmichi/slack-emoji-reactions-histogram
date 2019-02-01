@@ -1,6 +1,6 @@
 # Slack Emoji Reactions Statistic
 
-![Slack Emoji Reactions Statistic](https://github.com/cmichi/slack-emoji-reactions-histogram/raw/master/images/slack-reactions-statistic.png)
+![Slack Emoji Reactions Statistic](https://github.com/cmichi/slack-emoji-reactions-histogram/raw/master/images/slack-emoj-reactions-statistic.png)
 
 
 ## How to set it up
