@@ -22,7 +22,6 @@ At the end of this process you will get the credentials below.
 
 	export CHANNEL_ID="..."
 	export CHANNEL_NAME="company-general"
-
 	export POST_TO_CHANNEL_NAME="company-general"
 	^D
 	$ . .env
